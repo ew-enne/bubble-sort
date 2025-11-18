@@ -8,7 +8,7 @@
 def bubble_sort(arr)
   
   passage = 0 # counts number of passages
-  limit = arr.length - 1 # max nummber of passages
+  limit = arr.length - 1 # max number of passages
 
   # make (max) limit number of passages
   for i in 1..(limit)
